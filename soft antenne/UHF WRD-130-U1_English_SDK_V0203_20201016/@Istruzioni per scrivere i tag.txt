@@ -1,0 +1,33 @@
+Collegare l'antenna piccola al pc tramite usb
+
+Aprire il SW "WRD-130U_Config_V0203.exe"
+
+Andare sulla tab "UHF/EPC"
+
+Selezionare "Address" ed impostarlo sul valore "5"
+
+Impostare "Length(Word)" su "1"
+
+Scrivere il valore "000x" (dove x è il valore del tag da 1 a 6) nella casella d'inserimento accanto al pulsante "Write Tag" 
+
+Premere il pulsante "Write Tag" e verificare la scrittura con il pulsante "Read Tag"
+
+Il tag è pronto all'uso per l'antenna grande (Yanzeo)
+
+
+
+NOTA:
+
+L'antenna scriverà sulla seriale/usb "0x00000000" e in seguito un invio a capo
+
+Di seguito il dump impostazioni dell'antenna grande
+
+Receive...AA000A000007000000010100000DBB
+Read data success    01:06:09 AM
+The Output format £º 10 no. in HEX
+The Output format £º do not add semicolon 
+The Output format £º do not add , 
+The Output format £º do not add ? 
+The Output format £º add enter
+
+no add customize data...   

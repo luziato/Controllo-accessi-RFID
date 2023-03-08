@@ -2191,6 +2191,9 @@
   (gr_text "@luziato" (at 174.0408 103.3272) (layer "F.SilkS") (tstamp 302de234-7002-490a-a2a4-89602948e016)
     (effects (font (size 1.508 1.508) (thickness 0.29972) bold) (justify left bottom))
   )
+  (gr_text "V1.1" (at 123.19 104.14) (layer "F.SilkS") (tstamp 3ceaaa30-66cb-4dfa-8598-52318096bc10)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 164.62 102.87) (end 168.43 99.06) (width 0.762) (layer "F.Cu") (net 1) (tstamp 01c99b1a-a45c-4fcc-8e46-b6e39494d337))
   (segment (start 166.37 80.01) (end 166.37 81.28) (width 0.762) (layer "F.Cu") (net 1) (tstamp 2b132886-4dad-410f-ab77-041d764ef00e))
